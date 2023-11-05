@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "46bf49b3-5e9d-419e-9c3e-c1e279dec32d",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:5000/filials",
+    "url": "http://localhost:5000/filials",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-03-02T07:12:45.963Z",
+    "modified": "2023-03-02T07:12:45.963Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  },
+  {
+    "_id": "765394c5-5ca4-426a-931e-246985145aa3",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:5000/staff",
+    "url": "http://localhost:5000/staff",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-03-02T07:13:36.238Z",
+    "modified": "2023-03-02T07:13:36.238Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]
