@@ -13,7 +13,8 @@ app.use(router);
 startBootstrap();
 
 async function startBootstrap() {
-  await AppDataSource.initialize().catch((err: Error) => console.log(err));
+   await AppDataSource.initialize()
+
   console.log('Connected DB');
 
   app.listen(PORT, () => console.log(`http://localhost:${PORT}`));
