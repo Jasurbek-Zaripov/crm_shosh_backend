@@ -22,7 +22,7 @@ export const AppDataSource = new DataSource({
   port: 5432,
   username: "postgres",
   password: "7hEfwjl*OVRL",
-  database: "shosh_b",
+  database: "shosh_crm_test",
   synchronize: true,
   logging: false,
   entities: [
